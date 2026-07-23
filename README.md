@@ -1,3 +1,3 @@
 # SKALA FRONT-END
 
-    HTML, CSS, JavaScript assignments
+    HTML, CSS, JavaScript Assignments
